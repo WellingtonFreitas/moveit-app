@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./.github/logo.svg" alt="Move It" width="300"/>
+   <img src="https://raw.githubusercontent.com/WellingtonFreitas/moveit-app/6685242a2dd37a7685d8ffa1be392eba90ba77a4/public/logo-moveit-2.0.svg" alt="Move It" width="600"/>
 </p>
 
 
@@ -25,8 +25,9 @@
 </p>
 
 <div>
-   <img src="./.github/screenshot-1.png" width="400px">
-   <img src="./.github/screenshot-2.png" width="400px">
+   <img src="https://github.com/WellingtonFreitas/moveit-app/blob/main/public/moveIt_home.png?raw=true" width="300px"> 
+   <img src="https://github.com/WellingtonFreitas/moveit-app/blob/main/public/moveIt_desafio.png?raw=true" width="300px">
+    <img src="https://github.com/WellingtonFreitas/moveit-app/blob/main/public/levelUP.png?raw=true" width="300px">   
 </div>
 
 # :eyes: Demo Website
@@ -39,6 +40,7 @@ This project was made using the follow technologies:
 * [Typescript](https://www.typescriptlang.org/)      
 * [React](https://reactjs.org/)      
 * [Next.js](https://nextjs.org/)      
+* [Vercel](https://vercel.com/)      
      
 
 # :rocket: Features
